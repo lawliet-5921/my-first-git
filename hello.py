@@ -20,3 +20,5 @@ else:
 
 
 print("프롬프트 종료")
+print("asdsdf")
+print("asdsdf")
