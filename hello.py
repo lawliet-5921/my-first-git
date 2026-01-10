@@ -16,3 +16,7 @@ if torch.cuda.is_available():
     print("실험 끝! 메모리를 비웁니다.")
 else:
     print("어라? GPU를 찾을 수 없습니다.")
+
+
+
+print("프롬프트 종료")
